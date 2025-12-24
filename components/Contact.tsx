@@ -43,10 +43,10 @@ const Contact = () => {
             </p>
 
             <a 
-              href="mailto:goel.aadhaar@outlook.com" 
+              href="mailto:priyanshu.s1826@gmail.com" 
               className="inline-block text-xl sm:text-2xl font-bold text-gray-900 hover:text-blue-600 transition-colors mb-8"
             >
-              goel.aadhaar@outlook.com
+              priyanshu.s1826@gmail.com
             </a>
 
             <div className="flex gap-3">

@@ -11,10 +11,10 @@ const Footer = () => {
   ];
 
   const connectLinks = [
-    { name: 'GitHub', href: 'https://github.com/goel-aadhaar' },
-    { name: 'LinkedIn', href: 'https://www.linkedin.com/in/aadhaar-goel/' },
+    { name: 'GitHub', href: 'https://github.com/priyanshu-21singh' },
+    { name: 'LinkedIn', href: 'www.linkedin.com/in/priyanshusingh99' },
     { name: 'Twitter', href: 'https://x.com/goel_aadhaar' },
-    { name: 'Email', href: 'mailto:goel.aadhaar@outlook.com' },
+    { name: 'Email', href: 'priyanshu.s1826@gmail.com' },
   ];
 
   return (
@@ -25,7 +25,7 @@ const Footer = () => {
           
           <div className="col-span-1 md:col-span-2">
             <h3 className="text-lg font-bold text-gray-900 mb-1">
-              Aadhaar Goel
+              Priyanshu Singh
             </h3>
             <p className="text-xs text-gray-500">
               Full Stack Developer & Competitive Programmer
@@ -72,7 +72,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-100 pt-6 flex flex-col md:flex-row justify-between items-center gap-3">
           <p className="text-gray-500 text-xs">
-            © {currentYear} Aadhaar Goel. All rights reserved.
+            © {currentYear} Priyanshu Singh. All rights reserved.
           </p>
           
           <div className="flex gap-6">

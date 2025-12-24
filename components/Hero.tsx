@@ -9,12 +9,12 @@ const Hero = () => {
 
   const openSocial = (id: string) => {
   const links: Record<string, string> = {
-    linkedin: "https://www.linkedin.com/in/aadhaar-goel/",
-    github: "https://github.com/goel-aadhaar",
+    linkedin: "www.linkedin.com/in/priyanshusingh99",
+    github: "https://github.com/priyanshu-21singh",
     twitter: "https://x.com/goel_aadhaar",
-    codeforces: "https://codeforces.com/profile/goel_aadhaar",
-    leetcode: "https://leetcode.com/goel_aadhaar/",
-    codechef: "https://www.codechef.com/users/goel_aadhaar",
+    codeforces: "https://leetcode.com/u/priyanshu-singh/",
+    leetcode: "https://leetcode.com/u/priyanshu-singh/",
+    codechef: "https://leetcode.com/u/priyanshu-singh/",
   };
 
   const url = links[id];
@@ -49,11 +49,11 @@ const Hero = () => {
           <div className="lg:col-span-7 flex flex-col justify-center space-y-6">
             <div className="space-y-3">
               <div className="w-12 h-12 bg-gray-900 rounded-full flex items-center justify-center mb-4">
-                <span className="text-white text-lg font-bold">A</span>
+                <span className="text-white text-lg font-bold">P</span>
               </div>
               
               <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-gray-900 tracking-tight leading-tight">
-                Aadhaar Goel
+                Priyanshu Singh
               </h1>
               <h2 className="text-lg sm:text-xl text-gray-600 font-medium">
                 Full Stack Developer & Competitive Programmer

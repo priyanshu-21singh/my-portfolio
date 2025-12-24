@@ -72,7 +72,7 @@ const Header = () => {
           >
             {/* Added font-heading for branding */}
             <h1 className="text-xl font-bold font-heading text-gray-900 leading-tight group-hover:text-gray-600 transition-colors">
-              Aadhaar Goel
+              Priyanshu Singh
             </h1>
             <p className="text-[10px] text-gray-500 tracking-[0.2em] uppercase mt-0.5">
               Full Stack Developer &amp; Competitive Programmer
@@ -128,7 +128,7 @@ const Header = () => {
         <div className="flex flex-col h-full bg-white">
           <div className="flex justify-between items-center p-5 border-b border-gray-100 shrink-0">
             <div onClick={scrollToTop} className="cursor-pointer">
-              <h2 className="text-lg font-bold font-heading text-gray-900">Aadhaar Goel</h2>
+              <h2 className="text-lg font-bold font-heading text-gray-900">Priyanshu Singh</h2>
             </div>
             <button
               onClick={toggleMenu}
@@ -158,7 +158,7 @@ const Header = () => {
 
           <div className="p-5 border-t border-gray-100 bg-gray-50 shrink-0">
             <p className="text-[10px] text-gray-500 text-center">
-              © {new Date().getFullYear()} Aadhaar Goel
+              © {new Date().getFullYear()} Priyanshu Singh
             </p>
           </div>
         </div>
