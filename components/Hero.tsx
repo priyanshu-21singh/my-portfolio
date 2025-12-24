@@ -67,7 +67,7 @@ const Hero = () => {
               </div>
               <div className="flex items-center gap-1.5">
                 <Mail size={14} />
-                <span>goel.aadhaar@outlook.com</span>
+                <span>priyanshu.s1826@gmail.com</span>
               </div>
             </div>
 
